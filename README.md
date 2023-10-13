@@ -27,7 +27,7 @@ This script is intended for educational and entertainment purposes only. The cre
 ## Screenshots
 
 ![Screenshot 1](screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
+![Screenshot 2](screenshot2.png)
 
 
 If you would like to contribute to VHop, feel free to submit pull requests or open issues. Your contributions are welcome.
