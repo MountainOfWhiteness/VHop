@@ -1,5 +1,3 @@
-# VHop - Bunny-Hop Script for Counter-Strike 1.6
-
 ![VHop Banner](vhop-banner.jpeg)
 
 VHop is a bunny-hop script designed for Counter-Strike 1.6, allowing players to execute perfect bunny hops in the game. Please use this script responsibly and respect the rules and guidelines of the game and server you're playing on.
