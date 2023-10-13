@@ -22,13 +22,13 @@ VHop is a bunny-hop script designed for Counter-Strike 1.6, allowing players to 
 
 This script is intended for educational and entertainment purposes only. The creator of VHop (virose) is not responsible for any consequences or misuse of this script. Use it at your own discretion, and ensure you are complying with the rules and regulations of the game and the servers you play on.
 
-## Contributing
-
 ## Screenshots
 
 ![Screenshot 1](screenshot1.png)
 ![Screenshot 2](screenshot2.png)
 
+
+## Contributing
 
 If you would like to contribute to VHop, feel free to submit pull requests or open issues. Your contributions are welcome.
 
