@@ -4,8 +4,8 @@ VHop is a bunny-hop script designed for Counter-Strike 1.6, allowing players to 
 
 ## Features
 
-- Effortless Bunny Hopping: Perform precise bunny hops with ease.
-- Undetectable: Designed to minimize the risk of detection by anti-cheat systems.
+- Bunny Hopping
+- Undetectable
 - Lightweight
 
 ## Usage
