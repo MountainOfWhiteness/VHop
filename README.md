@@ -34,4 +34,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 **Disclaimer: This script is provided for educational and entertainment purposes only. The creator is not responsible for any consequences or misuse of this script. Use it responsibly and at your own risk.**
 
-For any questions or issues, please open an [issue](https://github.com/your-username/vhop/issues).
+For any questions or issues, please open an [issue](https://github.com/mountainofwhiteness/vhop/issues).
