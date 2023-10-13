@@ -26,7 +26,7 @@ This script is intended for educational and entertainment purposes only. The cre
 
 ## Screenshots
 
-[Screenshot 1](screenshot1.png)
+![Screenshot 1](screenshot1.png)
 ![Screenshot 2](screenshots/screenshot2.png)
 
 
